@@ -864,3 +864,5 @@
 /Web/FileUploader/node_modules/@istanbuljs
 /Web/FileUploader/node_modules/@jsdevtools
 /Web/FileUploader/node_modules
+/FileUploaderAPI/Resources
+/FileUploaderAPI/bin

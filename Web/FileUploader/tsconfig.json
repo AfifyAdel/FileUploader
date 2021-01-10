@@ -21,6 +21,8 @@
       "dom"
     ]
   },
+  "strictPropertyInitialization": false,
+  "noImplicitAny": false,
   "angularCompilerOptions": {
     "strictInjectionParameters": true,
     "strictInputAccessModifiers": true,
